@@ -1,0 +1,17 @@
+{
+  "title": "How Planes Actually Stay In The Sky",
+  "hook": "A 400-ton metal tube shouldn't float in the air — but it does.",
+  "scenes": [
+    {"voiceover": "Flight depends on four invisible forces battling each other constantly.", "broll_query": "airplane sky"},
+    {"voiceover": "Engines create thrust, pushing the aircraft forward through the air.", "broll_query": "jet engine"},
+    {"voiceover": "As wings slice forward, air splits above and below them.", "broll_query": "airplane wing"},
+    {"voiceover": "The curved top forces air to move faster, lowering its pressure.", "broll_query": "wing closeup"},
+    {"voiceover": "Higher pressure underneath then pushes the wing upward, creating lift.", "broll_query": "clouds sky"},
+    {"voiceover": "Lift overcomes gravity, and thrust overcomes drag from the air.", "broll_query": "plane flying"},
+    {"voiceover": "Pilots adjust flaps and angle to control all four forces.", "broll_query": "cockpit controls"},
+    {"voiceover": "That balance is the only thing keeping you in the sky.", "broll_query": "airplane landing"}
+  ],
+  "cta": "Follow for more things you never questioned.",
+  "description": "Ever wondered how a massive metal aircraft defies gravity? Here's the simple physics behind flight explained in under a minute. #aviation #physics #howitworks #planes #avgeek #shorts",
+  "hashtags": ["#aviation", "#howplanesfly", "#physics", "#avgeek", "#shorts", "#aircraft"]
+}

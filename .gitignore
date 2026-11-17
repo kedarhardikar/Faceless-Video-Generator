@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated narration, captions, downloaded footage, and rendered videos
+voice.mp3
+final.mp4
+clips/
+downloads/
+output/
+outputs/
+*.ass
+*.srt
+*.mp3
+*.wav
+*.mp4
+*.mov
+*.mkv
+
+# ML/model caches
+.cache/
+.cache-*/
+models/
+faster-whisper/
+whisper/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
